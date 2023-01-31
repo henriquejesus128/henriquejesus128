@@ -44,10 +44,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotave8119&show_icons=true&theme=dracula&include_all_commits=true&count_private=truetheme=dracula"/>
 </div>
   
- ##
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=henriquejesus128&bg_color=373436&color=f1f9f2&line=4c9e61&point=eaecf1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
 ##  
 
 <div align="center">
