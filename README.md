@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ola+meu+nome+%C3%A9+Henrique+Jesus+;Desenvolvedor+Full+Stack;Este+%C3%A9+meu+Git-Hub;Seja+bem+Vindo!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&width=435&lines=Ola+meu+nome+%C3%A9+Henrique+Jesus+;Desenvolvedor+Full+Stack;Este+%C3%A9+meu+Git-Hub;Seja+bem+Vindo!+%F0%9F%98%81)](https://git.io/typing-svg)
 
 ##
 
