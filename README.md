@@ -9,7 +9,7 @@
 - 👯 Fiz parte de vários projetos em ambiente estudantil e sempre tento manter a prática em dia com projetos pessoais.
 - 😄 Pronouns: Ele/Dele
 - 👦🏻 Tenho 29 anos e sou de São Paulo, SP!
-- 📚 Estudo programação há um pouco mais de 8 meses.
+- 📚 Estudo programação há um pouco mais de 1 ano.
 
 ##
 
