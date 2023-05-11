@@ -2,7 +2,7 @@
 
 ##
 
-<img  align="right" src="[https://www.infowindtech.com/wp-content/themes/infowind/images/cover-image-svg.png](https://img.freepik.com/vetores-gratis/hacker-operando-uma-ilustracao-do-icone-dos-desenhos-animados-laptop-conceito-de-icone-de-tecnologia-isolado-estilo-flat-cartoon_138676-2387.jpg)"  background="transparent" height="300" width="350"/>
+<img  align="right" src="https://img.freepik.com/vetores-gratis/hacker-operando-uma-ilustracao-do-icone-dos-desenhos-animados-laptop-conceito-de-icone-de-tecnologia-isolado-estilo-flat-cartoon_138676-2387.jpg"  background="transparent" height="300" width="350"/>
 
 - 🎯 Hoje eu busco as primeiras oportunidades como desenvolvedor front end ou back end.
 - 🌱 Atualmente terminando o programa da kenzie academy do curso full stack. E em breve quero estudar React native, Next Js e outras tecnologias.
