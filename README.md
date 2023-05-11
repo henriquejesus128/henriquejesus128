@@ -2,7 +2,7 @@
 
 ##
 
-<img  align="right" src="https://drive.google.com/file/d/1s7nlhhJFb9ZfWL4sc38Z1BzYRwPoMRr4/view?usp=share_link"  background="transparent" height="300" width="350"/>
+<img  align="right" src="/images-removebg-preview.png"  background="transparent" height="300" width="350"/>
 
 - 🎯 Hoje eu busco as primeiras oportunidades como desenvolvedor front end ou back end.
 - 🌱 Atualmente terminando o programa da kenzie academy do curso full stack. E em breve quero estudar React native, Next Js e outras tecnologias.
